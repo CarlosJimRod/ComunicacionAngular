@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./padre.component.css']
 })
 export class PadreComponent {
-
+  mensaje="este mensaje se ha creado en el padre y se pasa al hijo"
 }
